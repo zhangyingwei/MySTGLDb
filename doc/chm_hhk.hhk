@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="所有类">
+		<param name="Local" value="allclasses-frame.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="所有类">
+		<param name="Local" value="allclasses-noframe.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="常量字段值">
+		<param name="Local" value="constant-values.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="已过时项目列表">
+		<param name="Local" value="deprecated-list.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="API 帮助">
+		<param name="Local" value="help-doc.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="生成的文档（无标题）">
+		<param name="Local" value="index.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="概述列表">
+		<param name="Local" value="overview-frame.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="概述">
+		<param name="Local" value="overview-summary.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="类分层结构">
+		<param name="Local" value="overview-tree.html">
+     </OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="序列化表格">
+		<param name="Local" value="serialized-form.html">
+     </OBJECT>
+</UL>
+</BODY></HTML>

@@ -1,0 +1,25 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=CHM 帮助.chm
+Contents file=chm_hhc.hhc
+Default Window=chm_window
+Default topic=chm_about.htm
+Display compile progress=No
+Index file=chm_hhk.hhk
+Language=0x804 中文(中国)
+
+[WINDOWS]
+chm_window="CHM 文件@CHM制作精灵@ sxy868@sohu.com","chm_hhc.hhc","chm_hhk.hhk","index.html",,,,"chm_about.htm","关于...",0x2120,,0x8380e,[84,25,648,513],,,,,,,0
+[FILES]
+allclasses-frame.html
+allclasses-noframe.html
+constant-values.html
+deprecated-list.html
+help-doc.html
+index.html
+overview-frame.html
+overview-summary.html
+overview-tree.html
+serialized-form.html
+
+[INFOTYPES]
